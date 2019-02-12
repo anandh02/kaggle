@@ -1,0 +1,12 @@
+*.csv.zip
+*tar
+*zip
+*tgz
+*.csv
+*.html
+Kaggle\fbprop*
+Kaggle/fbprophet/*
+Kaggle/Glove/venv/*
+*.jpg
+Kaggle/Glove/Glove+Wiki/*
+Kaggle/Quora/changed_data
